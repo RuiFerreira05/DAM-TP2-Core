@@ -4,3 +4,6 @@
 [submodule "CoolWeatherApp"]
 	path = CoolWeatherApp
 	url = git@github.com:RuiFerreira05/CoolWeatherApp.git
+[submodule "ai-app"]
+	path = ai-app
+	url = git@github.com:RuiFerreira05/dam-tp2-mip.git
